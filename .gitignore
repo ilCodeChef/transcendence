@@ -1,0 +1,10 @@
+__pycache__/
+.env
+.idea/
+*.sqlite3
+.venv/
+.vscode/
+db/postgres/
+temp/
+avatars/*
+!avatars/default.jpeg

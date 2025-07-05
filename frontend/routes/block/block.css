@@ -1,0 +1,14 @@
+#restart-block{
+	background: #55a012;
+	color: white;
+	font-size: x-large;
+    position:absolute;
+	display: none;
+	border-radius: 0.5rem;
+	height: 75px;
+	width: 200px;
+}
+
+#restart-block:hover {
+	scale: 150%
+}
